@@ -1,0 +1,9 @@
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3.5.csprojAssemblyReference.cache
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3._5.Form1.resources
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3._5.Properties.Resources.resources
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3.5.csproj.GenerateResource.cache
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3.5.csproj.CoreCompileInputs.cache
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\bin\Debug\Prevent_3d_dizziness3.5.exe
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\bin\Debug\Prevent_3d_dizziness3.5.pdb
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3.5.exe
+C:\Users\sym\source\repos\Prevent_3d_dizziness3.5\obj\Debug\Prevent_3d_dizziness3.5.pdb
